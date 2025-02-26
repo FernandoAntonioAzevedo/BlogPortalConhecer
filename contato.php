@@ -4,9 +4,9 @@
 
 <body>
 
-    <h1>Testando aplicação</h1>
+    <h1>Página de contato</h1>
     
-<?php
+    <?php
     include_once("templates/footer.php")
 
 ?>
